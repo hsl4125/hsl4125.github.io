@@ -24,7 +24,7 @@ search: true
 
 # Build settings
 markdown: kramdown
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.16.5"
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
