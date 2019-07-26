@@ -57,21 +57,18 @@ plugins:
 
 author:
   name   : "Huanghai"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/dingdang.jpg"
   bio    : "Make bugs for the world"
   links:
-    - label: "Website"
+    - label: "Home"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://hsl4125.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 footer:
   links:
@@ -81,9 +78,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 defaults:
   # _posts
@@ -95,7 +89,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
   # _pages
   - scope:
