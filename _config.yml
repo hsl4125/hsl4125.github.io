@@ -105,3 +105,11 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+search_provider: algolia
+algolia:
+  application_id: BXZ6D0EVJ8
+  index_name: hsl4125.github.io
+  search_only_api_key: 3df7590d861f7b8ffe0b80228aa06fdb
+  powered_by: # true (default), false
+
