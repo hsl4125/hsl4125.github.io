@@ -122,7 +122,7 @@ comments:
     issue_term: "pathname"
 
 analytics:
-  provider: "google-gtag"
+  provider: "google"
   google:
     tracking_id: "UA-144739619-1"
     anonymize_ip: false # default
