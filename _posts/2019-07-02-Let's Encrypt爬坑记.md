@@ -1,3 +1,7 @@
+---
+title: "Let’s encrypt爬坑记"
+tags: ["SSL"]
+---
 
 想给网站开启https，决定用Let's Encrypt。据说既简单又安全，没想到都是眼泪，于是就有了这篇爬坑记。
 
