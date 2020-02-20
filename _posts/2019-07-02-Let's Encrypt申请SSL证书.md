@@ -1,5 +1,5 @@
 ---
-title: "Let’s encrypt爬坑记"
+title: "Let’s Encrypt申请SSL证书"
 tags: ["SSL"]
 ---
 
